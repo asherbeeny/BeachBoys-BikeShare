@@ -1,4 +1,4 @@
-# BeachBoys BikeShare Exploratory Analytics
+# BeachBoys BikeShare Exploratory Analysis
  
  BeachBoys BikeShare is a bike share service provider where users can take and return bikes at any of the 70 stations on their network. 
  
